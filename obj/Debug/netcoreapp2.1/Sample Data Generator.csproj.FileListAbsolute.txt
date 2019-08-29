@@ -1,0 +1,11 @@
+C:\Users\roaror\Desktop\Sample Data Generator\bin\Debug\netcoreapp2.1\Sample Data Generator.deps.json
+C:\Users\roaror\Desktop\Sample Data Generator\bin\Debug\netcoreapp2.1\Sample Data Generator.runtimeconfig.json
+C:\Users\roaror\Desktop\Sample Data Generator\bin\Debug\netcoreapp2.1\Sample Data Generator.runtimeconfig.dev.json
+C:\Users\roaror\Desktop\Sample Data Generator\bin\Debug\netcoreapp2.1\Sample Data Generator.dll
+C:\Users\roaror\Desktop\Sample Data Generator\bin\Debug\netcoreapp2.1\Sample Data Generator.pdb
+C:\Users\roaror\Desktop\Sample Data Generator\obj\Debug\netcoreapp2.1\Sample Data Generator.csprojAssemblyReference.cache
+C:\Users\roaror\Desktop\Sample Data Generator\obj\Debug\netcoreapp2.1\Sample Data Generator.csproj.CoreCompileInputs.cache
+C:\Users\roaror\Desktop\Sample Data Generator\obj\Debug\netcoreapp2.1\Sample Data Generator.AssemblyInfoInputs.cache
+C:\Users\roaror\Desktop\Sample Data Generator\obj\Debug\netcoreapp2.1\Sample Data Generator.AssemblyInfo.cs
+C:\Users\roaror\Desktop\Sample Data Generator\obj\Debug\netcoreapp2.1\Sample Data Generator.dll
+C:\Users\roaror\Desktop\Sample Data Generator\obj\Debug\netcoreapp2.1\Sample Data Generator.pdb
