@@ -11,5 +11,6 @@ public class Tweet : ITwitterAction
     public int comments_Count {get; set;}
     public int repost_Count {get; set;}
     public bool deleted{get; set;}
+    public int sequenceNumber{ get; set;}
 
 }
